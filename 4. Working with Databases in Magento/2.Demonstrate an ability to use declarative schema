@@ -1,0 +1,21 @@
+
+
+## 4.2 Demonstrate an ability to use declarative schema
+
+### How to manipulate columns and keys using declarative schema? 
+
+[see](https://github.com/bdcrops/module-declarative#how-to-manipulate-columns-and-keys-using-declarative-schema)
+
+### What is the purpose of whitelisting? 
+
+[see](https://github.com/bdcrops/module-declarative#what-is-the-purpose-of-whitelisting)
+
+### How to use Data and Schema patches? 
+
+[see](https://github.com/bdcrops/module-declarative#how-to-use-data-and-schema-patches)
+
+### How to manage dependencies between patch files? 
+
+[See](https://github.com/bdcrops/module-declarative#how-to-manage-dependencies-between-patch-files)
+
+
