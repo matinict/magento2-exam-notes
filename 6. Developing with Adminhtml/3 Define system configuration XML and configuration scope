@@ -1,0 +1,17 @@
+### 6.3 Define system configuration XML and configuration scope
+
+- Define basic terms and elements of system configuration XML, including scopes.
+[magestore](https://www.magestore.com/magento-2-tutorial/3169-2/),
+[atwix](https://www.atwix.com/magento-2/system-configuration/)
+
+- How would you add a new system configuration option?
+[mageplaza](https://www.mageplaza.com/magento-2-module-development/create-system-xml-configuration-magento-2.html),
+
+- What is the difference in this process for different option types (secret, file)?
+[aureatelabs](https://aureatelabs.com/how-to/how-to-create-system-xml-configuration-in-magento-2/), [metagento](https://www.metagento.com/blog/magento-2-create-system-configuration-system-xml)
+
+- Describe system configuration data retrieval?
+[mage2](https://mage2-blog.com/magento-2-get-core-config-data-programmatically/)
+
+- How do you access system configuration options programmatically? [blogtreat](http://www.blogtreat.com/get-store-system-configuration-value-in-magento-2/),
+[](http://www.blogtreat.com/get-store-system-configuration-value-in-magento-2/)
